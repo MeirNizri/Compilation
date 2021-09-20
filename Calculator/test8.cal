@@ -1,0 +1,7 @@
+int x
+x = 10
+int y
+y = 20
+if (x < y) y else x
+q
+
